@@ -28,9 +28,9 @@ A **Python GUI project** built with **Tkinter** to manage restaurant orders, gen
 
  📷 Screenshots
 
-<img width="602" height="678" alt="image" src="https://github.com/user-attachments/assets/3b586118-76e2-49ac-bd06-10fcc01b335c" />
-<img width="788" height="1020" alt="image" src="https://github.com/user-attachments/assets/2149bdbc-3222-4501-9608-4cca334c8e1b" />
-<img width="1118" height="1047" alt="image" src="https://github.com/user-attachments/assets/67b107d7-7fb9-492a-8aca-a32daf304978" />
+<img width="302" height="578" alt="image" src="https://github.com/user-attachments/assets/3b586118-76e2-49ac-bd06-10fcc01b335c" />
+<img width="588" height="920" alt="image" src="https://github.com/user-attachments/assets/2149bdbc-3222-4501-9608-4cca334c8e1b" />
+<img width="918" height="947" alt="image" src="https://github.com/user-attachments/assets/67b107d7-7fb9-492a-8aca-a32daf304978" />
 
 
  🚀 How to Run
